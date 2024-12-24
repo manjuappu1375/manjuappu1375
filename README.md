@@ -34,7 +34,7 @@ Here are some of the skills and tools that I work with:
 
 ## Contact Me
 
-<a href="mailto:manjuappu1375@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" /></a>  <a href="https://www.linkedin.com/in/tejas-s-88302928b"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" /></a> <a href="https://twitter.com/YourHandle"><img src="https://img.icons8.com/color/30/000000/twitter.png" alt="Twitter" /></a>
+<a href="mailto:manjuappu1375@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" /></a>  <a href=""><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" /></a> <a href="https://twitter.com/YourHandle"><img src="https://img.icons8.com/color/30/000000/twitter.png" alt="Twitter" /></a>
 
 ---
 
