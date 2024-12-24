@@ -63,6 +63,6 @@ Thanks for visiting my portfolio!
 
 
 <!---
-manjuappu1375/manjuappu1375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+manjuappu1375/Manjunath R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
