@@ -12,113 +12,128 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
 ---
 
 ## 🔧 Skills & Tools
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-### 🖥️ Programming Languages
-<div style="display: flex; align-items: center; justify-content: space-around;">
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/console.png" alt="Shell" />
-    <p><strong>Shell Scripting</strong></p>
+  <!-- Programming Languages -->
+  <div style="text-align: center;">
+    <h4>🖥️ Programming Languages</h4>
+    <div style="display: flex; justify-content: center; gap: 10px;">
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/console.png" alt="Shell" />
+        <p><strong>Shell Scripting</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/ios-filled/30/000000/sql.png" alt="SQL" />
+        <p><strong>SQL</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/yaml.png" alt="YAML" />
+        <p><strong>YAML</strong></p>
+      </div>
+    </div>
   </div>
-  <div>
-    <img src="https://img.icons8.com/ios-filled/30/000000/sql.png" alt="SQL" />
-    <p><strong>SQL</strong></p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/yaml.png" alt="YAML" />
-    <p><strong>YAML</strong></p>
-  </div>
-</div>
 
-### ⚙️ DevOps & Cloud Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/git.png" alt="Git" />
-    <p><strong>Git/GitHub</strong></p>
+  <!-- DevOps & Cloud Tools -->
+  <div style="text-align: center;">
+    <h4>⚙️ DevOps & Cloud Tools</h4>
+    <div style="display: flex; justify-content: center; gap: 10px;">
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/git.png" alt="Git" />
+        <p><strong>Git/GitHub</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/docker.png" alt="Docker" />
+        <p><strong>Docker</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/amazon-web-services.png" alt="AWS" />
+        <p><strong>AWS Services</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/amazon-ec2.png" alt="EC2" />
+        <p><strong>EC2</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/amazon-s3.png" alt="S3" />
+        <p><strong>S3</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/cloud.png" alt="VPC" />
+        <p><strong>VPC</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/key.png" alt="IAM" />
+        <p><strong>IAM</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/aws-lambda.png" alt="Lambda" />
+        <p><strong>Lambda</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/appointment-reminders.png" alt="SNS" />
+        <p><strong>SNS</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/monitor.png" alt="CloudWatch" />
+        <p><strong>CloudWatch</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/dns.png" alt="Route 53" />
+        <p><strong>Route 53</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/terminal.png" alt="AWS CLI" />
+        <p><strong>AWS CLI</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/jenkins.png" alt="Jenkins" />
+        <p><strong>Jenkins</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/kubernetes.png" alt="Kubernetes" />
+        <p><strong>Kubernetes</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/ansible.png" alt="Ansible" />
+        <p><strong>Ansible</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/terraform.png" alt="Terraform" />
+        <p><strong>Terraform</strong></p>
+      </div>
+    </div>
   </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/docker.png" alt="Docker" />
-    <p><strong>Docker</strong></p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/amazon-web-services.png" alt="AWS" />
-    <p><strong>AWS Services</strong></p>
-  </div>
-  <div>
-    <p><strong>EC2</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/amazon-ec2.png" alt="EC2" />
-  </div>
-  <div>
-    <p><strong>S3</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/amazon-s3.png" alt="S3" />
-  </div>
-  <div>
-    <p><strong>VPC</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/cloud.png" alt="VPC" />
-  </div>
-  <div>
-    <p><strong>IAM</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/key.png" alt="IAM" />
-  </div>
-  <div>
-    <p><strong>Lambda</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/aws-lambda.png" alt="Lambda" />
-  </div>
-  <div>
-    <p><strong>SNS</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/appointment-reminders.png" alt="SNS" />
-  </div>
-  <div>
-    <p><strong>CloudWatch</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/monitor.png" alt="CloudWatch" />
-  </div>
-  <div>
-    <p><strong>Route 53</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/dns.png" alt="Route 53" />
-  </div>
-  <div>
-    <p><strong>AWS CLI</strong></p>
-    <img src="https://img.icons8.com/color/30/000000/terminal.png" alt="AWS CLI" />
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/jenkins.png" alt="Jenkins" />
-    <p><strong>Jenkins</strong></p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/kubernetes.png" alt="Kubernetes" />
-    <p><strong>Kubernetes</strong></p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/ansible.png" alt="Ansible" />
-    <p><strong>Ansible</strong></p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/terraform.png" alt="Terraform" />
-    <p><strong>Terraform</strong></p>
-  </div>
-</div>
 
-### 🛠️ Version Control
-<div style="display: flex; align-items: center; justify-content: space-around;">
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/git.png" alt="Git" />
-    <p><strong>Git</strong></p>
+  <!-- Version Control -->
+  <div style="text-align: center;">
+    <h4>🛠️ Version Control</h4>
+    <div style="display: flex; justify-content: center; gap: 10px;">
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/git.png" alt="Git" />
+        <p><strong>Git</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/github.png" alt="GitHub" />
+        <p><strong>GitHub</strong></p>
+      </div>
+    </div>
   </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/github.png" alt="GitHub" />
-    <p><strong>GitHub</strong></p>
-  </div>
-</div>
 
-### 🖥️ Operating Systems
-<div style="display: flex; align-items: center; justify-content: space-around;">
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/linux.png" alt="Linux" />
-    <p><strong>Linux (Ubuntu, CentOS)</strong></p>
+  <!-- Operating Systems -->
+  <div style="text-align: center;">
+    <h4>🖥️ Operating Systems</h4>
+    <div style="display: flex; justify-content: center; gap: 10px;">
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/linux.png" alt="Linux" />
+        <p><strong>Linux (Ubuntu, CentOS)</strong></p>
+      </div>
+      <div>
+        <img src="https://img.icons8.com/color/30/000000/windows-10.png" alt="Windows" />
+        <p><strong>Windows</strong></p>
+      </div>
+    </div>
   </div>
-  <div>
-    <img src="https://img.icons8.com/color/30/000000/windows-10.png" alt="Windows" />
-    <p><strong>Windows</strong></p>
-  </div>
+
 </div>
 
 ---
@@ -140,7 +155,7 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
 
 ### 📈 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manjuappu1375&show_icons=true&count_private=true&hide_title=true&theme=dark" />
+  <img align="center" src="https ://github-readme-stats.vercel.app/api?username=manjuappu1375&show_icons=true&count_private=true&hide_title=true&theme=dark" />
 </p>
 
 ### 🔥 GitHub Streaks
@@ -153,8 +168,7 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjuappu1375&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-### ### 🏆 GitHub Trophies
-<p>
+### <p>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=manjuappu1375&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
 </p>
 
