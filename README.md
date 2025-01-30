@@ -23,6 +23,10 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
     <img src="https://img.icons8.com/ios-filled/30/000000/sql.png" alt="SQL" />
     <p><strong>SQL</strong></p>
   </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/yaml.png" alt="YAML" />
+    <p><strong>YAML</strong></p>
+  </div>
 </div>
 
 ### ⚙️ DevOps & Cloud Tools
@@ -40,40 +44,40 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
     <p><strong>AWS Services</strong></p>
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/amazon-ec2.png" alt="EC2" />
     <p><strong>EC2</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/amazon-ec2.png" alt="EC2" />
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/amazon-s3.png" alt="S3" />
     <p><strong>S3</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/amazon-s3.png" alt="S3" />
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/cloud.png" alt="VPC" />
     <p><strong>VPC</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/cloud.png" alt="VPC" />
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/key.png" alt="IAM" />
     <p><strong>IAM</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/key.png" alt="IAM" />
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/aws-lambda.png" alt="Lambda" />
     <p><strong>Lambda</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/aws-lambda.png" alt="Lambda" />
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/appointment-reminders.png" alt="SNS" />
     <p><strong>SNS</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/appointment-reminders.png" alt="SNS" />
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/monitor.png" alt="CloudWatch" />
     <p><strong>CloudWatch</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/monitor.png" alt="CloudWatch" />
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/dns.png" alt="Route 53" />
     <p><strong>Route 53</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/dns.png" alt="Route 53" />
   </div>
   <div>
-    <img src="https://img.icons8.com/color/30/000000/terminal.png" alt="AWS CLI" />
     <p><strong>AWS CLI</strong></p>
+    <img src="https://img.icons8.com/color/30/000000/terminal.png" alt="AWS CLI" />
   </div>
 </div>
 
@@ -106,8 +110,8 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
 ## 📫 Contact Me
 <p align="left">
   <a href="mailto:manjuappu1375@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" /></a> 
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" /></a> 
-  <a href="https://twitter.com/YourHandle "><img src="https://img.icons8.com/color/30/000000/twitter.png" alt="Twitter" /></a>
+ <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" /></a> 
+  <a href="https://twitter.com/YourHandle"><img src="https://img.icons8.com/color/30/000000/twitter.png" alt="Twitter" /></a>
 </p>
 
 ---
