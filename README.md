@@ -79,6 +79,22 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
     <p><strong>AWS CLI</strong></p>
     <img src="https://img.icons8.com/color/30/000000/terminal.png" alt="AWS CLI" />
   </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/jenkins.png" alt="Jenkins" />
+    <p><strong>Jenkins</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/kubernetes.png" alt="Kubernetes" />
+    <p><strong>Kubernetes</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/ansible.png" alt="Ansible" />
+    <p><strong>Ansible</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/terraform.png" alt="Terraform" />
+    <p><strong>Terraform</strong></p>
+  </div>
 </div>
 
 ### 🛠️ Version Control
@@ -137,7 +153,7 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjuappu1375&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies
+### ### 🏆 GitHub Trophies
 <p>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=manjuappu1375&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
 </p>
