@@ -12,31 +12,94 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
 ---
 
 ## 🔧 Skills & Tools
+
 ### 🖥️ Programming Languages
-- ![Shell](https://img.icons8.com/color/30/000000/console.png) **Shell Scripting**
-- ![SQL](https://img.icons8.com/ios-filled/30/000000/sql.png) **SQL**
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/console.png" alt="Shell" />
+    <p><strong>Shell Scripting</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/ios-filled/30/000000/sql.png" alt="SQL" />
+    <p><strong>SQL</strong></p>
+  </div>
+</div>
 
 ### ⚙️ DevOps & Cloud Tools
-- ![Git](https://img.icons8.com/color/30/000000/git.png) **Git/GitHub**
-- ![Docker](https://img.icons8.com/color/30/000000/docker.png) **Docker**
-- ![AWS](https://img.icons8.com/color/30/000000/amazon-web-services.png) **AWS Services**:
-  - ![EC2](https://img.icons8.com/color/30/000000/amazon-ec2.png) **EC2**
-  - ![S3](https://img.icons8.com/color/30/000000/amazon-s3.png) **S3**
-  - ![VPC](https://img.icons8.com/color/30/000000/cloud.png) **VPC**
-  - ![IAM](https://img.icons8.com/color/30/000000/key.png) **IAM**
-  - ![Lambda](https://img.icons8.com/color/30/000000/aws-lambda.png) **Lambda**
-  - ![SNS](https://img.icons8.com/color/30/000000/appointment-reminders.png) **SNS**
-  - ![CloudWatch](https://img.icons8.com/color/30/000000/monitor.png) **CloudWatch**
-  - ![Route 53](https://img.icons8.com/color/30/000000/dns.png) **Route 53**
-  - ![AWS CLI](https://img.icons8.com/color/30/000000/terminal.png) **AWS CLI**
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/git.png" alt="Git" />
+    <p><strong>Git/GitHub</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/docker.png" alt="Docker" />
+    <p><strong>Docker</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/amazon-web-services.png" alt="AWS" />
+    <p><strong>AWS Services</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/amazon-ec2.png" alt="EC2" />
+    <p><strong>EC2</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/amazon-s3.png" alt="S3" />
+    <p><strong>S3</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/cloud.png" alt="VPC" />
+    <p><strong>VPC</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/key.png" alt="IAM" />
+    <p><strong>IAM</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/aws-lambda.png" alt="Lambda" />
+    <p><strong>Lambda</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/appointment-reminders.png" alt="SNS" />
+    <p><strong>SNS</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/monitor.png" alt="CloudWatch" />
+    <p><strong>CloudWatch</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/dns.png" alt="Route 53" />
+    <p><strong>Route 53</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/terminal.png" alt="AWS CLI" />
+    <p><strong>AWS CLI</strong></p>
+  </div>
+</div>
 
 ### 🛠️ Version Control
-- ![Git](https://img.icons8.com/color/30/000000/git.png) **Git**
-- ![GitHub](https://img.icons8.com/color/30/000000/github.png) **GitHub**
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/git.png" alt="Git" />
+    <p><strong>Git</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/github.png" alt="GitHub" />
+    <p><strong>GitHub</strong></p>
+  </div>
+</div>
 
 ### 🖥️ Operating Systems
-- ![Linux](https://img.icons8.com/color/30/000000/linux.png) **Linux (Ubuntu, CentOS)**
-- ![Windows](https://img.icons8.com/color/30/000000/windows-10.png) **Windows**
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/linux.png" alt="Linux" />
+    <p><strong>Linux (Ubuntu, CentOS)</strong></p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/30/000000/windows-10.png" alt="Windows" />
+    <p><strong>Windows</strong></p>
+  </div>
+</div>
 
 ---
 
@@ -44,7 +107,7 @@ Hello! I'm **Manjunath R.**, a passionate **DevOps Engineer** with a strong inte
 <p align="left">
   <a href="mailto:manjuappu1375@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" /></a> 
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" /></a> 
-  <a href="https://twitter.com/YourHandle"><img src="https://img.icons8.com/color/30/000000/twitter.png" alt="Twitter" /></a>
+  <a href="https://twitter.com/YourHandle "><img src="https://img.icons8.com/color/30/000000/twitter.png" alt="Twitter" /></a>
 </p>
 
 ---
